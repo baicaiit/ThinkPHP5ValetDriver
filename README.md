@@ -7,4 +7,4 @@
 > 拷贝 ThinkPHP5ValetDriver.php 文件到 valet 驱动文件夹 ~/.config/valet/Drivers
 
 ## License
-> The Lumen framework is open-sourced software licensed under the MIT license
+>  MIT license
